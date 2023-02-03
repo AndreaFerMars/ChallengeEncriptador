@@ -1,0 +1,3 @@
+1. Expresiones Regulares: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions
+2. Grid y Flexbox: https://developer.mozilla.org/es/docs/Web/CSS/CSS_Grid_Layout/Relationship_of_Grid_Layout#:~:text=contenido%20ser%C3%A1%20Grid.-,Grid%20y%20flexbox,y%20columnas%20al%20mismo%20tiempo
+3. Aparecer y desaparecer elementos: https://discord.com/channels/1038161292646686761/1054377113970552882/1063174004166369280
